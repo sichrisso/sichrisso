@@ -1,4 +1,9 @@
 ### Hi there 👋
+## I'm <span class= "auto-input"></span>
+<script src = "https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<script> var typed = new Typed(".auto-input", { strings: ["Christina Solomon", "a SOftware Engineer", "Work in Progress"], typeSpeed: 100, backSpeed: 100, loop: true
+})
+
 
 <!--
 **sichrisso/sichrisso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
