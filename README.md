@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=6000&color=C96F00D8&center=true&lines=I+am+Christina+Solomon;A+Software+Engineer;Nice+to+meet+you!!)](https://git.io/typing-svg)
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.aait.edu.et">Addis Ababa Institute Of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"></br>
-</em></p><br>
+<p><em>Software Engineer at <a href="http://www.aait.edu.et">Addis Ababa Institute Of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+</em></p>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
@@ -15,7 +15,7 @@
 
 <br>
 
-## Languages
+## 🖋 Languages
 <table align= "center">
   <tbody>
     <tr valign="top">
@@ -32,14 +32,14 @@
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
       </td>
       <td width="15%" align="center">
-        <h2>𝗣𝘆𝘁𝗵𝗼𝗻</span><br>
+        <h2>𝗣𝘆𝘁𝗵𝗼𝗻</h2><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
   </tbody>
 </table>
 
-## Frameworks
+## ✨Frameworks
 <table align= "center">
   <tbody>
     <tr valign="top">
@@ -55,24 +55,12 @@
   </tbody>
 </table>
 
-## Database
-<table align= "center">
-  <tbody>
-    <tr valign="top">
-      <td width="15%" align="center">
-        <h2>MySql</h2><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## Tools
+## 🛠 Tools
 <table align= "center">
   <tbody>
     <tr valign="top">
         <td width="15%" align="center">
-            <h2>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</h2><br>
+            <h2>VS code</h2><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
         </td>
         <td width="15%" align="center">
@@ -87,7 +75,20 @@
   </tbody>
 </table>
 
-<br><br>
+## 🛒Database
+<table align= "center">
+  <tbody>
+    <tr valign="top">
+      <td width="15%" align="center">
+        <h2>MySql</h2><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br>
 
 <p align="center"> 
     <a href="https://github.com/sichrisso/github-readme-streak-stats">
@@ -97,8 +98,9 @@
 
 ## 📊 My Github Stats
   <br/>
-    <a href="https://github.com/sichrisso/github-readme-stats"><img alt="Christina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sichrisso&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br>
-    <a href="https://github.com/sichrisso/github-readme-stats"><img alt="Christina's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sichrisso&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <div>
+    <a href="https://github.com/sichrisso/github-readme-stats"><img alt="Christina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sichrisso&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=#ffa500" /></a>
+    <a href="https://github.com/sichrisso/github-readme-stats"><img alt="Christina's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sichrisso&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=#ffa500" /></a></div>
   <br/><br>
 
   
