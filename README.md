@@ -1,7 +1,8 @@
 ### HELLO WORLD 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=6000&color=C96F00D8&center=true&lines=I+am+Christina+Hailu;A+Software+Engineer;Nice+to+meet+you!!)](https://git.io/typing-svg)
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://giphy.com/stickers/christina-christinagalbato-galbato-kf9SPXEuTEknDSXVvl" width="230">
+
 <p><em>Software Engineer at <a href="http://www.aait.edu.et">Addis Ababa Institute Of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
