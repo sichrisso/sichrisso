@@ -7,87 +7,13 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on **Mobile Application Development**
-- 🌱 I’m currently learning **Nodejs, Javascript, React**
-- 💬 Ask me about **Html,CSS,Flutter, Python**
-- 📫 How to reach me: **helenasolomon87@gmail.com**
+- 🔭 I’m currently working as a **Data Engineer**
+- 🌱 I’m currently learning **AI, AWS**
+- 💬 Ask me about **Software Engineering, Data Engineering, Research**
+- 📫 How to reach me: **christinahailu1911@gmail.com**
 - ⚡ Fun fact: **Trying Everything**
 
 <br>
-
-## 🖋 Languages
-<table align= "center">
-  <tbody>
-    <tr valign="top">
-      <td width="15%" align="center">
-        <h2>𝗖</h2><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="15%" align="center">
-        <h2>𝗖SS</h2><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-      </td>
-      <td width="15%" align="center">
-        <h2>HTML</h2><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-      </td>
-      <td width="15%" align="center">
-        <h2>𝗣𝘆𝘁𝗵𝗼𝗻</h2><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-## ✨Frameworks
-<table align= "center">
-  <tbody>
-    <tr valign="top">
-      <td width="15%" align="center">
-        <h2>Flutter</h2><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
-      </td>
-      <td width="15%" align="center">
-        <h2>SpringBoot</h2><br>
-        <img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
-      </td>
-     </tr>
-  </tbody>
-</table>
-
-## 🛠 Tools
-<table align= "center">
-  <tbody>
-    <tr valign="top">
-        <td width="15%" align="center">
-            <h2>VS code</h2><br>
-            <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-        </td>
-        <td width="15%" align="center">
-            <h2>Git</h2><br>
-            <img height="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-        </td>
-        <td width="15%" align="center">
-            <h2>Figma</h2><br>
-            <img height="64px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-        </td>
-    </tr>
-  </tbody>
-</table>
-
-## 🛒Database
-<table align= "center">
-  <tbody>
-    <tr valign="top">
-      <td width="15%" align="center">
-        <h2>MySql</h2><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
 <br>
 
 <p align="center"> 
