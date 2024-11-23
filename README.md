@@ -1,5 +1,5 @@
 ### HELLO WORLD 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=6000&color=C96F00D8&center=true&lines=I+am+Christina+Solomon;A+Software+Engineer;Nice+to+meet+you!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&duration=6000&color=C96F00D8&center=true&lines=I+am+Christina+Hailu;A+Software+Engineer;Nice+to+meet+you!!)](https://git.io/typing-svg)
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.aait.edu.et">Addis Ababa Institute Of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
@@ -25,7 +25,7 @@
 ## 📊 My Github Stats
   <br/>
   <div>
-    <a href="https://github.com/sichrisso/github-readme-stats"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=sichrisso&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=#ffa500" /></a>
+    <a href="https://github.com/sichrisso/github-readme-stats"><img alt="Christina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sichrisso&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=#ffa500" /></a>
     <a href="https://github.com/sichrisso/github-readme-stats"><img alt="Christina's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sichrisso&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=#ffa500" /></a></div>
   <br/><br>
 
